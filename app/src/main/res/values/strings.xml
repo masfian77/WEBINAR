@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMA WEBINAR 2020</string>
+    <string name="welcome">WELCOME TO IMA WEBINAR</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">LOGOUT</string>
+    <string name="live">LIVE STREAMING</string>
+</resources>
